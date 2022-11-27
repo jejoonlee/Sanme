@@ -1,3 +1,5 @@
+[이제준 개인 정리](https://github.com/jejoonlee/TIL-and-Coding-Test/blob/master/Multicampus_Final_Project/Final_2.md)
+
 # ![logo](README.assets/navlogo.png) 산책 메이트
 
 <img src="README.assets/logo.png" alt="logo" style="zoom:67%;" />
